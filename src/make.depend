@@ -1,0 +1,3 @@
+temp_rel_vars.o : consts.o
+vscr_mod.o : screening_vars.o
+ph_lt.o : apaw_pot.o
